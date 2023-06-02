@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonSentiment", "PythonSentiment\PythonSentiment.pyproj", "{34F442EC-ED42-460C-A38F-2889CC329174}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EA1475C6-F830-4284-81BE-193B9F3086A7}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\archive (3)\Tweets.csv = ..\..\..\Downloads\archive (3)\Tweets.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F442EC-ED42-460C-A38F-2889CC329174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F442EC-ED42-460C-A38F-2889CC329174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AC6B7E1-0139-4BC1-9BD3-3EEFB120B60C}
+	EndGlobalSection
+EndGlobal
